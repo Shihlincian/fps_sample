@@ -1,0 +1,14 @@
+build*/
+install/
+release/
+
+# visual studio files
+.vs/
+
+# gvim auto save
+*.un~
+
+# vim swap file
+*.swp
+
+!./3rdparty/MSVC_cryptopp/cryptopp-master/x64
